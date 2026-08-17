@@ -1,0 +1,14 @@
+2026-07-30 15:28:23,544 [INFO] Activator:176 - 
+
+
+2026-07-30 15:28:23,546 [INFO] Activator:177 - !SESSION log4j initialized
+2026-07-30 15:28:30,074 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-07-30 15:29:05,565 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-30 15:29:05,566 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-30 15:29:05,566 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-30 15:52:07,339 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SWT SessionManagerDBus: Failed to UnregisterClient: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying
+2026-07-30 15:55:22,196 [INFO] Activator:176 - 
+
+
+2026-07-30 15:55:22,200 [INFO] Activator:177 - !SESSION log4j initialized
+2026-07-30 15:55:30,837 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
